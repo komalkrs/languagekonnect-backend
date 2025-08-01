@@ -1,4 +1,4 @@
-// routes/pods.js
+
 const express = require('express');
 const router = express.Router();
 const User = require('../models/User'); // user schema with credits & bookings
